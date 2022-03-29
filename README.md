@@ -2,7 +2,8 @@
 
 
 
-- 🌱 Estou estudando: C# .Net
+- Estou estudando: Html, Javascript, Css, bootstrap 4, PHP.
+
 
 
 <div align = "center">
